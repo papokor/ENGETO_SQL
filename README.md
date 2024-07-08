@@ -1,4 +1,5 @@
 # ENGETO_SQL
+<strong>Pokorný Pavel - kurz Datová Akademie 16. 1. 2024 - 2. 4. 2024</strong>
 <strong>Projekt SQL pro kurz Engeto - Ceny potravin</strong>
 ------------------------------------------
 Příprava dat, výstupů a odpovědí na předem definované otázky, které mapují dostupnost dostupnost základních potravin široké veřejnosti a porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období.
