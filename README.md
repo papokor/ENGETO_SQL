@@ -54,5 +54,5 @@ Z porovnání průměrných meziročních nárůstů cen vyplývá, že nejvyš�
 
 <b>Otázka 5 - Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?</b>
 
-Z dostupných dat se dá pozorovat uričtá závislost v pohybu úrovně HDP a sledovaných ukazatelů, více možná ve vývoji cen potravin. Avšak vliv není zcela jednoznačný a proto na položenou otázku nelze s jistotou odpovědět. 
+Z dostupných dat se dá pozorovat určitá závislost v pohybu úrovně HDP a sledovaných ukazatelů, více možná ve vývoji cen potravin. Avšak vliv není zcela jednoznačný a proto na položenou otázku nelze s jistotou odpovědět. 
 
