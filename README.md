@@ -30,6 +30,12 @@ Příprava dat, výstupů a odpovědí na předem definované otázky, které ma
 Poznámka:
 Tabulka o cenách obsahuje hodnoty za kratší časový úsek, porovnání bude prováděno na tomto období (2006 - 2018).
 
+<strong>Sripty:</strong>
+<li>PRIMARY - tvorba primární tabulky </li>
+<li>SECONDARY - tvorba sekundární tabulky</li>
+<li>OTÁZKY - tvorba tabulek pro projektové otázky</li>
+
+
 -------------------------------------------------------------
 
 <b>Otázka 1 - Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?</b>
