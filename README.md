@@ -30,7 +30,7 @@ Příprava dat, výstupů a odpovědí na předem definované otázky, které ma
 Poznámka:
 Tabulka o cenách obsahuje hodnoty za kratší časový úsek, porovnání bude prováděno na tomto období (2006 - 2018).
 
-<strong>Sripty:</strong>
+<strong>Scripty:</strong>
 <li>PRIMARY - tvorba primární tabulky </li>
 <li>SECONDARY - tvorba sekundární tabulky</li>
 <li>OTÁZKY - tvorba tabulek pro projektové otázky</li>
